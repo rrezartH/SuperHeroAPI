@@ -25,3 +25,6 @@ D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAP
 D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\ref\SuperHeroAPI.dll
 D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.pdb
 D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.genruntimeconfig.cache
+D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding\C#\SuperHeroAPI\SuperHeroAPI\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
